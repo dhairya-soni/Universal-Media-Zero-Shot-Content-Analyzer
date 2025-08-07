@@ -1,7 +1,5 @@
 # Universal-Media-Zero-Shot-Content-Analyzer
 
-# Universal Media Zero-Shot Content Analyzer
-
 ## Overview
 This project is a modular system that analyzes uploaded videos and audio to identify speakers and languages without prior training on the specific content. It also optionally enhances video frames using super-resolution techniques.
 
